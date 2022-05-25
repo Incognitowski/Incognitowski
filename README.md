@@ -18,7 +18,7 @@
 
 ### 📐 About Me
 
-#### I'm a Backend Engineer in Brazil
+#### I'm a Senior Backend Engineer in Brazil
 
 - I specialize in:
   - Microsservices.
