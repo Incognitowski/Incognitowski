@@ -16,6 +16,18 @@
 </div>
 <hr/>
 
+### 📐 About Me
+
+#### I'm a Backend Engineer in Brazil
+
+- I specialize in:
+  - Microsservices.
+  - Software Integrations.
+  - Performance.
+  - High-coverage testing.
+- I'm currently learning Docker and CI/CD integrations.
+- In my free time, I like to watch old movies 🎥, play games (specially RPGs ⚔️ and racing 🏎️), and mess around with small software projects.
+
 ### 🛠️ Tech stuff I'm currently using and enjoying:
 
 <div>
@@ -32,8 +44,17 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="auto" height="50" title="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="auto" height="50" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="auto" height="50" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="auto" height="50" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="auto" height="50" title="VueJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="auto" height="50" title="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="auto" height="50" title="Vuetify"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="auto" height="50" title="AngularJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="auto" height="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="auto" height="50" title="JQuery"/>
 </div>
+
+<hr />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitowski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
