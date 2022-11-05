@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="auto" height="50" title="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="auto" height="50" title="Apache Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="auto" height="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="auto" height="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="auto" height="50" title="JetBrains"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="auto" height="50" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="auto" height="50" title="AWS"/>
@@ -57,7 +58,7 @@
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitowski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incognitowski&layout=compact&theme=vision-friendly-dark&reset=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="./wave_bottom.svg"/>
