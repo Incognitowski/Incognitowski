@@ -25,7 +25,7 @@
   - Software Integrations.
   - Performance.
   - Efficient software testing.
-- I'm currently learning Rust 🦀 and CI/CD integrations.
+- I'm currently learning Rust 🦀 and Terraform.
 - In my free time, I like to watch old movies 🎥, play games (specially RPGs ⚔️ and racing 🏎️), and mess around with small software projects.
 
 ### 🛠️ Tech stuff I'm currently using and enjoying:
@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="auto" height="50" title="JetBrains"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="auto" height="50" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="auto" height="50" title="Gradle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="auto" height="50" title="React"/>
 </div>
 
 ### 🔨 Tools I have used in the past:
